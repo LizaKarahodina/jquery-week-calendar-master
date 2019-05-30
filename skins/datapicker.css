@@ -1,0 +1,12 @@
+.calendar-nav{
+    font-family: arial, helvetica;
+    color: #222;
+}
+
+.ui-state-default.ui-state-highlight.ui-state-active{
+  background: #fdeb87;
+}
+
+.ui-datepicker-header.ui-widget-header{
+    background: linear-gradient(to top,#bbccff, #d0dafb);
+}
